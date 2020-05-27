@@ -2,3 +2,6 @@
 <div class="main-body-in">
 
 <?php the_breadcrumbs(); ?>
+<?php the_breadcrumbs(); ?>
+<?php the_breadcrumbs(); ?>
+<?php the_breadcrumbs(); ?>
