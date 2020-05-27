@@ -5,8 +5,6 @@
 <?php the_breadcrumbs(); ?>
 <?php the_breadcrumbs(); ?>
 <?php the_breadcrumbs(); ?>
-<<<<<<< Updated upstream
-=======
 
 branch AA
->>>>>>> Stashed changes
+
